@@ -1,0 +1,47 @@
+body {
+    background-color: yellow;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Playfair Display";
+}
+
+#corners {
+    border-radius: 18px 60px 35px;
+    background: pink;
+    padding: 25px; 
+    width: 250px;
+    height: 200px; 
+}
+
+.big {
+	font-size: 30pt;
+}
+
+#dog {
+	float: right;
+}
+
+#firstP {
+    font-family: "Arial";
+}
+
+#secondP {
+    font-family: Courier New;
+}
+
+#what {
+    border-style: dotted;
+    background: blue;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+img {
+	margin: 20px;
+}
